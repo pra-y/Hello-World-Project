@@ -6,8 +6,8 @@ class Swap
         System.out.println("Enter the value of x and y");  
         
 	Scanner sc = new Scanner(System.in);  
-        int x = sc.nextInt();  
-        int y = sc.nextInt();  
+        int x = 223 
+        int y = 837;  
         System.out.println("Before swapping numbers: "+x +" "+ y);  
        
 	x = x + y;   
